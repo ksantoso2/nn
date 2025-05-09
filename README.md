@@ -4,6 +4,8 @@ In this project, we aimed to experiment with convolutional neural networks and v
 
 ### Sources
 [Fashion MNIST dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist) 
+
 [Pytorch CNN Tutorial](https://github.com/flatplanet/Pytorch-Tutorial-Youtube)
+
 [LeNet 5 architecture](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 
